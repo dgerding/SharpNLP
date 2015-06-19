@@ -30,7 +30,7 @@
     </FileUpgradeFlags>
     <UpgradeBackupLocation>
     </UpgradeBackupLocation>
-    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <OldToolsVersion>2.0</OldToolsVersion>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
@@ -354,47 +354,48 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
-    <None Include="models\Coref.zip" />
-    <None Include="models\Coref\acronyms" />
-    <None Include="models\Coref\cmodel.nbin" />
-    <None Include="models\Coref\cmodel_nr.nbin" />
-    <None Include="models\Coref\defmodel.nbin" />
-    <None Include="models\Coref\defmodel_nr.nbin" />
-    <None Include="models\Coref\fmodel.nbin" />
-    <None Include="models\Coref\fmodel_nr.nbin" />
-    <None Include="models\Coref\gen.fem" />
-    <None Include="models\Coref\gen.mal" />
-    <None Include="models\Coref\gen.nbin" />
-    <None Include="models\Coref\imodel.nbin" />
-    <None Include="models\Coref\imodel_nr.nbin" />
-    <None Include="models\Coref\num.nbin" />
-    <None Include="models\Coref\plmodel.nbin" />
-    <None Include="models\Coref\plmodel_nr.nbin" />
-    <None Include="models\Coref\pmodel.nbin" />
-    <None Include="models\Coref\pmodel_nr.nbin" />
-    <None Include="models\Coref\pnmodel.nbin" />
-    <None Include="models\Coref\pnmodel_nr.nbin" />
-    <None Include="models\Coref\sim.nbin" />
-    <None Include="models\Coref\tmodel.nbin" />
-    <None Include="models\Coref\tmodel_nr.nbin" />
-    <None Include="models\EnglishChunk.nbin" />
-    <None Include="models\EnglishPOS.nbin" />
-    <None Include="models\EnglishSD.nbin" />
-    <None Include="models\EnglishTok.nbin" />
-    <None Include="models\NameFind\date.nbin" />
-    <None Include="models\NameFind\location.nbin" />
-    <None Include="models\NameFind\money.nbin" />
-    <None Include="models\NameFind\organization.nbin" />
-    <None Include="models\NameFind\percentage.nbin" />
-    <None Include="models\NameFind\person.nbin" />
-    <None Include="models\NameFind\time.nbin" />
-    <None Include="models\Parser\build.nbin" />
-    <None Include="models\Parser\check.nbin" />
-    <None Include="models\Parser\chunk.nbin" />
-    <None Include="models\Parser\head_rules" />
-    <None Include="models\Parser\tag.nbin" />
-    <None Include="models\Parser\tagdict" />
+    <None Include="Models\Coref.zip" />
+    <None Include="Models\Coref\acronyms" />
+    <None Include="Models\Coref\cmodel.nbin" />
+    <None Include="Models\Coref\cmodel_nr.nbin" />
+    <None Include="Models\Coref\defmodel.nbin" />
+    <None Include="Models\Coref\defmodel_nr.nbin" />
+    <None Include="Models\Coref\fmodel.nbin" />
+    <None Include="Models\Coref\fmodel_nr.nbin" />
+    <None Include="Models\Coref\gen.fem" />
+    <None Include="Models\Coref\gen.mal" />
+    <None Include="Models\Coref\gen.nbin" />
+    <None Include="Models\Coref\imodel.nbin" />
+    <None Include="Models\Coref\imodel_nr.nbin" />
+    <None Include="Models\Coref\num.nbin" />
+    <None Include="Models\Coref\plmodel.nbin" />
+    <None Include="Models\Coref\plmodel_nr.nbin" />
+    <None Include="Models\Coref\pmodel.nbin" />
+    <None Include="Models\Coref\pmodel_nr.nbin" />
+    <None Include="Models\Coref\pnmodel.nbin" />
+    <None Include="Models\Coref\pnmodel_nr.nbin" />
+    <None Include="Models\Coref\sim.nbin" />
+    <None Include="Models\Coref\tmodel.nbin" />
+    <None Include="Models\Coref\tmodel_nr.nbin" />
+    <None Include="Models\EnglishChunk.nbin" />
+    <None Include="Models\EnglishPOS.nbin" />
+    <None Include="Models\EnglishSD.nbin" />
+    <None Include="Models\EnglishTok.nbin" />
+    <None Include="Models\NameFind\date.nbin" />
+    <None Include="Models\NameFind\location.nbin" />
+    <None Include="Models\NameFind\money.nbin" />
+    <None Include="Models\NameFind\organization.nbin" />
+    <None Include="Models\NameFind\percentage.nbin" />
+    <None Include="Models\NameFind\person.nbin" />
+    <None Include="Models\NameFind\time.nbin" />
+    <None Include="Models\Parser\build.nbin" />
+    <None Include="Models\Parser\check.nbin" />
+    <None Include="Models\Parser\chunk.nbin" />
+    <None Include="Models\Parser\head_rules" />
+    <None Include="Models\Parser\tag.nbin" />
+    <None Include="Models\Parser\tagdict" />
     <None Include="packages.config" />
+    <None Include="Resources\EnglishChunk.nbin" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
